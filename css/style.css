@@ -1,0 +1,58 @@
+/*https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/*/
+/*Block: The sole root of the component.
+Element: A component part of the Block.
+Modifier: A variant or extension of the Block.*/
+@import "settings.colors";
+@import "settings.global";
+@import "generic.reset";
+@import "elements.headings";
+
+/*@import "elements.citation";
+@import "elements.forms";
+@import "elements.links";
+@import "elements.lists";
+@import "elements.page";
+@import "elements.quotes";
+@import "elements.tables";
+
+@import "objects.animations";
+@import "objects.list-bare";
+@import "objects.media";
+@import "objects.layout";
+@import "objects.overlays";
+
+@import "components.404";
+@import "components.about";
+@import "components.archive";
+@import "components.buttons";
+@import "components.student";
+@import "components.comments";
+@import "components.contact";
+@import "components.cta";
+@import "components.faq";
+@import "components.features";
+@import "components.footer";
+@import "components.forms";
+@import "components.header";
+@import "components.headings";
+@import "components.legal-nav";
+@import "components.main-cta";
+@import "components.main-nav";
+@import "components.newsletter";
+@import "components.page-title";
+@import "components.pagination";
+@import "components.post-teaser";
+@import "components.process";
+@import "components.quote-banner";
+@import "components.offices";
+@import "components.sec-nav";
+@import "components.services";
+@import "components.share-buttons";
+@import "components.social-media";
+@import "components.topbar";
+@import "components.reasons";
+@import "components.work-list";
+@import "components.work-detail";
+
+@import "trumps.clearfix";
+@import "trumps.utilities";*/
